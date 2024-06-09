@@ -9,3 +9,4 @@
 
 Accelerating 3D animation workflows
 </h3>
+[![Twitter Follow](https://img.shields.io/twitter/follow/moverseai?label=Follow%20on%20Twitter)](https://twitter.com/moverseai)
