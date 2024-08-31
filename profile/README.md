@@ -10,5 +10,7 @@
 Accelerating 3D animation workflows
 </h3>
 
-[![moverse.ai](https://img.shields.io/badge/-moverse.ai-9914B4?style=plastic)](https://www.moverse.ai/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/moverseai?label=Follow%20on%20Twitter)](https://twitter.com/moverseai)
+# Get Involved
+Check out our latest news:
+- [![moverse.ai](https://img.shields.io/badge/-moverse.ai-9914B4?style=plastic&label=Visit)](https://www.moverse.ai/)
+- [![Twitter](https://img.shields.io/twitter/follow/moverseai?label=Follow%20on%20Twitter)](https://twitter.com/moverseai)
